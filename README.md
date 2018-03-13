@@ -3,13 +3,13 @@ As a non-CS major and have been working two years as a front end developer, I fi
 
 ## How JavaScript Works
 
-- [What is JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+[What is JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
-Clears the myth how JavaScript and browser APIs (alongside with some other essential APIs) are actually different things.
+- Clears the myth how JavaScript and browser APIs (alongside with some other essential APIs) are actually different things.
 
-- [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+[Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
-This is probably the 'go-to' explanation of event loop.
+- This is probably the go-to explanation of event loop.
 
 ## How Browsers Work
 
