@@ -5,14 +5,18 @@ As a non-CS major and have been working two years as a front end developer, I fi
 
 🗒️[What is JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
-- Clears the myth how JavaScript and browser APIs (alongside with some other essential APIs) are actually different things.
+Clears the myth how JavaScript and browser APIs (alongside with some other essential APIs) are actually different things.
 
 🗒️[Introduction to Web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
 
 📹[Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
-- This is probably the go-to explanation of event loop.
+This is probably the go-to explanation of event loop.
 
 ## How Browsers Work
 
+🖥[Chromium Sourcecode](https://github.com/chromium/chromium)
+
 ## How Computers Work
+
+📖[Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
