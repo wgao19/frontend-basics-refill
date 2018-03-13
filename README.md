@@ -1,2 +1,16 @@
-# frontend-basics-refill
-As a non-CS major and have been working two years as a front end developer, I find myself lacking the understanding of some basic mechanisms such as how browser works, how JavaScript works, even how computer works, etc. Using this repo to organize the articles and books I read on this effort.
+# Front End Basics Refiller
+As a non-CS major and have been working two years as a front end developer, I find myself lacking the understanding of some basic mechanisms such as how browser works, how JavaScript works, even how computer works, etc. I am therefore taking this chance to try to understand where everything lives and how they work together to produce web pages in a more fundamental level. This repo is used to organize the articles and books I read on this effort.
+
+## How JavaScript Works
+
+- [What is JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+
+Clears the myth how JavaScript and browser APIs (alongside with some other essential APIs) are actually different things.
+
+- [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+
+This is probably the 'go-to' explanation of event loop.
+
+## How Browsers Work
+
+## How Computers Work
