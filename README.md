@@ -17,6 +17,8 @@ This is probably the go-to explanation of event loop.
 
 🖥[Chromium Sourcecode](https://github.com/chromium/chromium)
 
+📖[High Performance Browser Networking](https://hpbn.co/)
+
 ## How Computers Work
 
 📖[Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
