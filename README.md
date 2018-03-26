@@ -13,6 +13,10 @@ Clears the myth how JavaScript and browser APIs (alongside with some other essen
 
 This is probably the go-to explanation of event loop.
 
+🖥[ECMAScript 2018 Language Specification](https://tc39.github.io/ecma262/)
+
+🖥[ECMAScript 2018 Internationalization API Specification](https://github.com/tc39/ecma402/)
+
 ## How Browsers Work
 
 🖥[Chromium Sourcecode](https://github.com/chromium/chromium)
@@ -22,3 +26,15 @@ This is probably the go-to explanation of event loop.
 ## How Computers Work
 
 📖[Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
+
+---
+
+## On CSS
+
+Some recommended reading from Chenchen's sharing: 
+
+🖥[CSS Snapshot 2017](https://www.w3.org/TR/css-2017/) 
+
+🖥[CSS Level 2](https://www.w3.org/TR/CSS2/)
+
+🖥[CSS Flexible Box Model Level 1](https://www.w3.org/TR/css-flexbox-1/)
