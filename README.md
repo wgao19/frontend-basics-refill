@@ -1,5 +1,5 @@
 # Front End Basics Refiller
-As a non-CS major and have been working two years as a front end developer, I find myself lacking the understanding of some basic mechanisms such as how browser works, how JavaScript works, even how computer works, etc. I am therefore taking this chance to try to understand where everything lives and how they work together to produce web pages in a more fundamental level. This repo is used to organize the articles and books I read on this effort.
+As a non-CS major and have been working (this year - 2016) years as a front end developer, I find myself lacking the understanding of some basic mechanisms such as how browser works, how JavaScript works, even how computer works, etc. I am therefore taking this chance to try to understand where everything lives and how they work together to produce web pages in a more fundamental level. This repo is used to organize the articles and books I read on this effort.
 
 ## How JavaScript Works
 
@@ -21,6 +21,10 @@ This is probably the go-to explanation of event loop.
 
 🖥[Chromium Sourcecode](https://github.com/chromium/chromium)
 
+🖥[What happens when you type 'google.com' into a browser and press Enter?](https://dev.to/antonfrattaroli/what-happens-when-you-type-googlecom-into-a-browser-and-press-enter-39g8?utm_source=wanqu.co)
+
+> This guy's answer is very fluent, shows mastery. I don't want to get his answer directly but it inspired me to know to what extend I should be familiar with this part of the knowledge.
+
 📖[High Performance Browser Networking](https://hpbn.co/)
 
 ## How Computers Work
@@ -38,3 +42,10 @@ Some recommended reading from Chenchen's sharing:
 🖥[CSS Level 2](https://www.w3.org/TR/CSS2/)
 
 🖥[CSS Flexible Box Model Level 1](https://www.w3.org/TR/css-flexbox-1/)
+
+---
+## Becoming a Better Programmer in General
+
+📖[Clean Code](https://www.goodreads.com/book/show/3735293-clean-code?from_search=true) 
+
+> I was amazed by reading one of my coworker's work. He can always write good code even on top of bad code. He recommended this book that I am currently reading.
