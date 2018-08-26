@@ -49,3 +49,9 @@ Some recommended reading from Chenchen's sharing:
 📖[Clean Code](https://www.goodreads.com/book/show/3735293-clean-code?from_search=true) 
 
 > I was amazed by reading one of my coworker's work. He can always write good code even on top of bad code. He recommended this book that I am currently reading.
+---
+## Contributing to Open Source Community
+
+[Fluent Conf 2016: The First Pull Request - Kent C. Dodds (PayPal)](https://www.youtube.com/watch?v=HjgZQeMrw6c)
+
+[How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
