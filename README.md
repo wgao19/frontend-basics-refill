@@ -55,3 +55,8 @@ Some recommended reading from Chenchen's sharing:
 [Fluent Conf 2016: The First Pull Request - Kent C. Dodds (PayPal)](https://www.youtube.com/watch?v=HjgZQeMrw6c)
 
 [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+
+---
+## Other Interesting Stuff
+
+[The World Wide Web Project](http://info.cern.ch/hypertext/WWW/TheProject.html)
