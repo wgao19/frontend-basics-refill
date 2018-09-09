@@ -44,6 +44,16 @@ Some recommended reading from Chenchen's sharing:
 🖥[CSS Flexible Box Model Level 1](https://www.w3.org/TR/css-flexbox-1/)
 
 ---
+
+## React
+
+### React-Redux
+
+- [Using the React-Redux Bindings](https://blog.isquaredsoftware.com/presentations/workshops/redux-fundamentals/react-redux.html)
+  Explains what `React-Redux` does, (to save your life from re-implementing the subscriber to Redux store by yourself), note their performance optimizations. Briefly explains its implementation. Very well-written, concise tutorial.
+
+---
+
 ## Becoming a Better Programmer in General
 
 📖[Clean Code](https://www.goodreads.com/book/show/3735293-clean-code?from_search=true) 
