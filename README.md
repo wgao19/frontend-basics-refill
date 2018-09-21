@@ -60,6 +60,8 @@ Some recommended reading from Chenchen's sharing:
 
 > I was amazed by reading one of my coworker's work. He can always write good code even on top of bad code. He recommended this book that I am currently reading.
 
+- [Here](https://blog.kenrick95.org/2018/03/code-practice/) is an article that this colleague wrote on his coding practice.
+
 ---
 
 ## Contributing to Open Source Community
