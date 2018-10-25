@@ -43,6 +43,8 @@ Some recommended reading from Chenchen's sharing:
 
 - [CSS Flexible Box Model Level 1](https://www.w3.org/TR/css-flexbox-1/)
 
+- [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes) A fun read.
+
 ---
 
 ## React
